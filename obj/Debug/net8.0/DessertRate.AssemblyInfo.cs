@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DessertRate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d74a53d0b5ed6c0bed9df66772cda240d0dec7d2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fdefec3b478d1dfd8a3b2a9d3d8ba1f5377d8dd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("DessertRate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DessertRate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
