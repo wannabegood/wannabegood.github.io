@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "DessertRate",
   "resources": {
-    "hash": "sha256-NlJWYYc/nbaaNGgGN/HVDCLnwEMBjh9xDTjdZGgUT6A=",
+    "hash": "sha256-hXEUExWUbU29SmnFK/WcSMmx0t4uDKIJXa4fBCNJDfE=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "DessertRate.wasm": "sha256-zZkMpfJb//4nl3G4D8KN2V6cBGutjHZyh/EuxhxDark=",
+      "DessertRate.wasm": "sha256-EePfxp4yGTfZCMi9vrdDgJsZEu5XDSCO2EVXJM5t/VM=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-Bs+e4aTtwI3+xeiIv4TVWU8t9LInofQ/NfbFu7IyE0E=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-Bijo8tQBl/QdvqA+dE6uAhyEzuThPLFNDFAvuLVu2EM=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-UMgcTLFYIarvb+SrjzAvm+jynvwUXL5RlhEwU2yzSxk=",
