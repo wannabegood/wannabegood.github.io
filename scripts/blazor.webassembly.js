@@ -2260,7 +2260,7 @@
         const { dotnet: n } = await (async function (e) {
             if ("undefined" == typeof WebAssembly || !WebAssembly.validate)
               throw new Error("This browser does not support WebAssembly.");
-            let t = "_framework/dotnet.js";
+            let t = "scripts/dotnet.js";
             if (e.loadBootResource) {
               const n = "dotnetjs",
                 r = e.loadBootResource(
@@ -2377,7 +2377,7 @@
                     ? navigator.userAgent.includes("Firefox")
                       ? (async function () {
                           const e = await fetch(
-                            `_framework/debug?url=${encodeURIComponent(
+                            `scripts/debug?url=${encodeURIComponent(
                               location.href
                             )}&isFirefox=true`
                           );
@@ -2386,7 +2386,7 @@
                       : at
                       ? (function () {
                           const e = document.createElement("a");
-                          (e.href = `_framework/debug?url=${encodeURIComponent(
+                          (e.href = `scripts/debug?url=${encodeURIComponent(
                             location.href
                           )}`),
                             (e.target = "_blank"),
