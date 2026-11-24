@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "DessertRate",
   "resources": {
-    "hash": "sha256-4IHqigAihsAbMQe4RXHYYcl4vmugAvIVxRHPxjeHuZs=",
+    "hash": "sha256-mCoLjFaJrVyZT/MZs5B7W21fH1KSJh6DB1nv+fGnYvU=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-Uc+HxggmSGuU1CkPjbVFhBiqRQ6cUsH1lnQ1keONjkE="
     },
@@ -60,7 +60,7 @@
       "System.Text.RegularExpressions.wasm": "sha256-g6eagxGBc/tF7V0O2K8kiULqAGf5/oZE8OJmBeLlBoE=",
       "System.wasm": "sha256-IIKRw/1Tj73qX1r/QyNSmPtCAiRQDinpf+bYsDaO2jc=",
       "System.Private.CoreLib.wasm": "sha256-XVzYPxuKkiCwDxDZhK38auTMAD7tM5kH3EUdxrU+eIw=",
-      "DessertRate.wasm": "sha256-trW6u8cfmCUYXgR2ZY38W/ewwWz6BG8tz6JgEh4uf6M="
+      "DessertRate.wasm": "sha256-w3eZpLLrsYKVI373ozJZM/yZsOo8w9ccY+L2u4iAiwg="
     }
   },
   "cacheBootResources": true,
